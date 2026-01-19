@@ -1,24 +1,93 @@
-# 💫 About Me:
-👋 Hello! I'm Muhamed Medhat, a skilled 𝐑𝐞𝐚𝐜𝐭 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 passionate about crafting engaging and responsive user interfaces. With a proven track record of delivering high-quality web applications, I thrive on turning ideas into reality.<br><br>💻 My Skills:<br><br>✅ HTML5<br>✅ CSS3<br>✅ JavaScript<br>✅ Ajax<br>✅ React.js<br>✅ Redux<br>✅ Tailwind css<br>✅ Git<br>✅ GitHub<br><br>✨ What Makes Me Stand Out:<br><br>🚀 React Skills: With a strong proficiency in React, JavaScript, HTML, and CSS, I ensure top-notch development from concept to execution.<br><br>🔧 Tools of the Trade: Experience with state management using tools like Redux, enabling streamlined and scalable applications.<br><br>📱 Responsive Design: Implementing responsive design techniques to guarantee flawless user experiences across diverse devices.<br><br>🤝 Seamless Collaboration: I excel in collaborating with backend developers, seamlessly integrating frontend components with server-side logic.<br><br>🌐 Staying Ahead: Dedicated to staying updated with the latest industry trends and technologies, I ensure modern, scalable, and maintainable solutions.<br><br>🛠️ My Approach in Action:<br><br>Whether it's developing a new web application from scratch or enhancing an existing one, I'm committed to integrating third-party APIs, optimizing application performance, and ensuring cross-browser compatibility.<br><br>WHO AM I ? 🤔<br>My name is Muhamed and Currently pursuing a degree in Computer Engineering. I’m FAST, reliable and a great communicator.
+# 👋 Hi, I'm Muhamed Medhat  
 
+🚀 **Backend Engineer (.NET) | Go Enthusiast**  
+🎓 Computer Science Student  
+🌍 Based in Egypt  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhamed-medhat-484658252/) 
+I’m a backend-focused software engineer with **1.5+ years of experience** building scalable, secure, and high-performance systems using **.NET**.  
+I’m also deeply passionate about **Go**, constantly learning it through real-world projects and open-source contributions.  
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=muhamd11&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=muhamd11&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamd11&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=muhamd11&limit=5&theme=nord&combine_all_yearly_contributions=true)
+Previously, I worked with **Angular** on the frontend, which helps me collaborate effectively with UI teams and build better APIs.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=muhamd11&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💡 What I Do Best
+
+- 🏗 Build **robust backend systems** using .NET  
+- ⚡ Design **REST APIs** & microservices  
+- 🔐 Implement authentication, authorization & security  
+- 🧠 Optimize performance & database queries  
+- 🌐 Collaborate smoothly with frontend teams  
+- 🐹 Learn and build projects with **Go**  
+
+---
+
+## 🛠 Tech Stack
+
+### Backend  
+- **C# / .NET / ASP.NET Core**  
+- **Go (Golang)**  
+- REST APIs, Clean Architecture, SOLID  
+- Authentication & Authorization  
+- Background Jobs, Caching  
+
+### Databases  
+- SQL Server  
+- PostgreSQL  
+- MySQL  
+- SQLite  
+
+### Frontend (Previous Experience)  
+- Angular  
+- HTML, CSS, TypeScript  
+- REST API Integration  
+
+### Tools & DevOps  
+- Git & GitHub  
+- Docker (Basics)  
+- Postman  
+- Linux  
+
+---
+
+## 🔥 Why Hire Me?
+
+- ✅ Strong backend fundamentals  
+- ✅ Real-world project experience  
+- ✅ Clear communication  
+- ✅ Fast learner  
+- ✅ Passionate about clean, maintainable code  
+- ✅ Always improving  
+
+---
+
+## 📌 Current Focus
+
+- Mastering **Go**  
+- Contributing to **Open Source**  
+- Building scalable backend systems  
+- Deepening system design knowledge  
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhamed-medhat-484658252)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=muhamd11&theme=dark&hide_border=false&include_all_commits=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=muhamd11&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamd11&theme=dark&layout=compact)
+
+---
+
+### 💬 Quote I Live By
+
+> "First, make it work. Then, make it right. Then, make it fast."
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=muhamd11&icon=0&color=0)](https://visitcount.itsvg.in)
